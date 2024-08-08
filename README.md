@@ -3,7 +3,7 @@
 ## Description
 29,523 People Face Recognition Data with Identification Photos.The race distribution of data includes Asian race, Caucasian race, black race and brown race. For each subject, one ID photo and 5-10 life photos were collected. This data can be used for face recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1020?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 # Specifications
